@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{08027568-700D-A93F-5A39-8CEDC9930E37}") = "AMapHelper", "Assembly-CSharp.csproj", "{4A9CEDA1-6EAA-9C6D-DB78-BBE201AE2036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A9CEDA1-6EAA-9C6D-DB78-BBE201AE2036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9CEDA1-6EAA-9C6D-DB78-BBE201AE2036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9CEDA1-6EAA-9C6D-DB78-BBE201AE2036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9CEDA1-6EAA-9C6D-DB78-BBE201AE2036}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
